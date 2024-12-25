@@ -1,0 +1,43 @@
+{
+  "posts": [
+    {
+      "id": "f319",
+      "title": "Wings of fire",
+      "date1": "2024-10-08",
+      "blog": "This is motivational book . must read everyone try it very helpfull in life"
+    },
+    {
+      "id": "6255",
+      "title": "Stranger things",
+      "date1": "2024-02-14",
+      "blog": "The curious series to watch must reccomended"
+    },
+    {
+      "id": "8259",
+      "title": "The white tiger",
+      "date1": "2024-06-11",
+      "blog": "it is a tale of two indias.balrams journey from the darkness"
+    },
+    {
+      "id": "8f73",
+      "title": "Atomic habits",
+      "date1": "2024-10-08",
+      "blog": "Addictive billionaire"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": null
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": null
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
